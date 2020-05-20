@@ -1,5 +1,5 @@
 body{
-    background-image: url("bg5.jpg");
+    background-image: url("bg7.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -39,10 +39,11 @@ a:hover{
 .header1{
     font-family: cursive;
     margin-top: 25px;
-    font-size: 75px;
-    text-align: center;
-    color:black;
     font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
 }
 .footer1{
     margin-top: 50px;
@@ -59,11 +60,12 @@ img{
     background: none;
     margin-left: 25px;
     border-radius: 50px;
-    opacity: 0.5;
+    opacity: 0.7;
+    margin-top: 20px;
 }
 .details{
-    margin-left: 100px;
-    margin-top: 200px;
+    margin-left: 200px;
+    margin-top: 100px;
     font-size: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -74,15 +76,16 @@ img{
 .header2{
     font-family: cursive;
     margin-top: 25px;
-    font-size: 75px;
-    text-align: center;
-    color:black;
     font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
 }
-.quali{
-    margin-left: 100px;
-    margin-top: 200px;
-    font-size: 30px;
+.college{
+    margin-left: 50px;
+    margin-top: 150px;
+    font-size: 25px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .footer2{
@@ -92,18 +95,21 @@ img{
 .header3{
     font-family: cursive;
     margin-top: 25px;
-    font-size: 75px;
-    text-align: center;
-    color:black;
     font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
 }
 .flex3{
     display: flex;
     flex-direction: row;
 }
 .obj{
-    margin-left: 100px;
-    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+    margin-top: 50px;
     font-size: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -114,10 +120,11 @@ img{
 .header4{
     font-family: cursive;
     margin-top: 25px;
-    font-size: 75px;
-    text-align: center;
-    color:black;
     font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
 }
 .acknow{
     margin-left: 100px;
@@ -126,6 +133,18 @@ img{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .footer4{
-    margin-top: 50px;
+    margin-top: 110px;
     margin-left: 550px;
+}
+.senior{
+    margin-left: 50px;
+    margin-top: 150px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.secondary{
+    margin-left: 50px;
+    margin-top: 150px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
